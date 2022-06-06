@@ -2,10 +2,12 @@ body {
     margin:0;
     padding:0;
     font-family:helvetica, sans-serif; 
+	background-image: url(https://upload.wikimedia.org/wikipedia/ru/4/47/Yelawolf_Love_Story.jpg)
 }
-
+p {color: rgb(91, 187, 255);
+}
 a { 
-    color:#00abff;
+    color:#001fff;
     text-decoration:none; 
 }
 
@@ -13,6 +15,7 @@ h1 {
     font-weight:normal;
     border-bottom:1px solid #bbb;
     padding:0 0 10px 0;
+	background-color: #c9c5c5
 }
 
 h2 {
@@ -24,13 +27,14 @@ h2 {
     float:left;
     width:60%;
     padding:0 0 0 30px; 
+	
 }
 
 #sidebar { 
     float:right;
     width:30%;
     padding:10px;
-    background:#efefef; 
+    background:#c5c0c0; 
     height:100%;
 }
 
